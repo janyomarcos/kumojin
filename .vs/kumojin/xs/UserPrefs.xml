@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{891E2F67-A369-4273-AFF4-99D9E9D53AAA}|kumojin.timezone">
+  <MonoDevelop.Ide.ItemProperties.Kumojin.Timezone PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="kumojin.timezone/kumojin.timezone.csproj" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kumojin" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

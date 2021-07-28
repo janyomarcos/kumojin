@@ -1,0 +1,33 @@
+﻿@page "/timezone"
+
+@inject Services.ITimeZoneService TimeZoneService
+
+<h1>Current Time:</h1>
+
+<p id="timezoneLocal" role="status">@currentTimeLocal [@timeZoneLocal.Id]</p>
+
+<p id="tokyoTimeZona" role="status">@currentTime [@tokyoTimezoneId]</p>
+
+<button class="btn btn-primary" @onclick="ShowTimeZone">Refresh</button>
+
+@code {
+    private string tokyoTimezoneId = "Tokyo Standard Time";
+    private TimeZoneInfo timeZoneLocal;
+    private DateTime currentTime;
+    private DateTime currentTimeLocal;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await ShowTimeZone();
+    }
+
+    private async Task ShowTimeZone()
+    {
+        timeZoneLocal = TimeZoneInfo.Local;
+        currentTimeLocal = TimeZoneInfo.ConvertTime(DateTime.Now, timeZoneLocal);
+
+        var dto = await TimeZoneService.GetTimeZone(tokyoTimezoneId);
+        currentTime = dto.CurrentTime;
+        StateHasChanged();
+    }
+}
