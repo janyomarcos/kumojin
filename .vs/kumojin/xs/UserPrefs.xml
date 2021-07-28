@@ -1,21 +1,38 @@
-﻿<Properties StartupConfiguration="{891E2F67-A369-4273-AFF4-99D9E9D53AAA}|kumojin.timezone">
+﻿<Properties StartupConfiguration="Vários Projetos">
   <MonoDevelop.Ide.ItemProperties.Kumojin.Timezone PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.ItemProperties.kumojin.timezone PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="kumojin.timezone/kumojin.timezone.csproj" Line="14" Column="1" />
+      <File FileName="kumojin.timezone/kumojin.timezone.csproj" Line="13" Column="1" />
+      <File FileName="kumojin.timezone/Program.cs" Line="8" Column="46" />
+      <File FileName="kumojin.timezone/appsettings.json" Line="1" Column="1" />
+      <File FileName="kumojin.timezone/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Kumojin.Blazor/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Kumojin.Blazor/Program.cs" Line="14" Column="25" />
+      <File FileName="kumojin.timezone/Properties/launchSettings.json" Line="11" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="kumojin" expanded="True" selected="True" />
+          <Node name="kumojin" expanded="True">
+            <Node name="kumojin.timezone" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Kumojin.Blazor PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Vários Projetos" Name="Vários Projetos">
+      <Items>
+        <StartupItem ItemId="{6F3D8B4E-4D5D-408D-9299-F94B592EE4DB}" ItemName="Kumojin.Blazor" ConfigurationId="Default" />
+        <StartupItem ItemId="{891E2F67-A369-4273-AFF4-99D9E9D53AAA}" ItemName="kumojin.timezone" ConfigurationId="kumojin.timezone" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
 </Properties>

@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="/Users/janyo/Projects/kumojin/Kumojin.Blazor/bin/Debug/net6.0/wwwroot/" />
-  <ContentRoot BasePath="/" Path="/Users/janyo/Projects/kumojin/Kumojin.Blazor/obj/Debug/net6.0/scopedcss/bundle/" />
+  <ContentRoot BasePath="/" Path="/Users/janyo/Projects/repos/kumojin/Kumojin.Blazor/bin/Debug/net6.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/janyo/Projects/repos/kumojin/Kumojin.Blazor/obj/Debug/net6.0/scopedcss/bundle/" />
 </StaticWebAssets>

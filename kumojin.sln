@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumojin.Timezone", "kumojin.timezone\kumojin.timezone.csproj", "{891E2F67-A369-4273-AFF4-99D9E9D53AAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kumojin.timezone", "kumojin.timezone\kumojin.timezone.csproj", "{891E2F67-A369-4273-AFF4-99D9E9D53AAA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumojin.Blazor", "Kumojin.Blazor\Kumojin.Blazor.csproj", "{6F3D8B4E-4D5D-408D-9299-F94B592EE4DB}"
 EndProject

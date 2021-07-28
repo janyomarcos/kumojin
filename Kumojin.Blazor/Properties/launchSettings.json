@@ -19,6 +19,7 @@
     "Kumojin.Blazor": {
       "commandName": "Project",
       "launchBrowser": true,
+      "launchUrl": "https://localhost:48200",
       "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
       "applicationUrl": "https://localhost:48200",
       "environmentVariables": {
