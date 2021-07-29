@@ -6331,11 +6331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/janyo/Projects/repos/kumojin/Kumojin.TimeZone.Test/Kumojin.TimeZone.Test.csproj",
+      "projectUniqueName": "/Users/janyo/Projects/repo/kumojin/Kumojin.TimeZone.Test/Kumojin.TimeZone.Test.csproj",
       "projectName": "Kumojin.TimeZone.Test",
-      "projectPath": "/Users/janyo/Projects/repos/kumojin/Kumojin.TimeZone.Test/Kumojin.TimeZone.Test.csproj",
+      "projectPath": "/Users/janyo/Projects/repo/kumojin/Kumojin.TimeZone.Test/Kumojin.TimeZone.Test.csproj",
       "packagesPath": "/Users/janyo/.nuget/packages/",
-      "outputPath": "/Users/janyo/Projects/repos/kumojin/Kumojin.TimeZone.Test/obj/",
+      "outputPath": "/Users/janyo/Projects/repo/kumojin/Kumojin.TimeZone.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/janyo/.config/NuGet/NuGet.Config"
@@ -6350,8 +6350,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/janyo/Projects/repos/kumojin/kumojin.timezone/kumojin.timezone.csproj": {
-              "projectPath": "/Users/janyo/Projects/repos/kumojin/kumojin.timezone/kumojin.timezone.csproj"
+            "/Users/janyo/Projects/repo/kumojin/kumojin.timezone/kumojin.timezone.csproj": {
+              "projectPath": "/Users/janyo/Projects/repo/kumojin/kumojin.timezone/kumojin.timezone.csproj"
             }
           }
         }

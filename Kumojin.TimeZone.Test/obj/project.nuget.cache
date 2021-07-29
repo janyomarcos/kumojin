@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wXbEzBROflvGHr4zqB0prXF33L9UNwPYuho0lfjqCKXpWo6HANs2BBMTKPM1LLoov3e9hR04cCSvgqf3FEM+ig==",
+  "dgSpecHash": "/TlPghdAPYbbOvNTt6thXIndyDTT0lbBKIaaPnyHvBSLa5ihq260qC63PHmESfOo7GF78JY4FAKEpow0cKWACg==",
   "success": true,
-  "projectFilePath": "/Users/janyo/Projects/repos/kumojin/Kumojin.TimeZone.Test/Kumojin.TimeZone.Test.csproj",
+  "projectFilePath": "/Users/janyo/Projects/repo/kumojin/Kumojin.TimeZone.Test/Kumojin.TimeZone.Test.csproj",
   "expectedPackageFiles": [
     "/Users/janyo/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/janyo/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

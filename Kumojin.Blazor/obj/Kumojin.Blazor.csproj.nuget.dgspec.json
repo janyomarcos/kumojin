@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/janyo/Projects/repos/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj": {}
+    "/Users/janyo/Projects/repo/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj": {}
   },
   "projects": {
-    "/Users/janyo/Projects/repos/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj": {
+    "/Users/janyo/Projects/repo/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/janyo/Projects/repos/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj",
+        "projectUniqueName": "/Users/janyo/Projects/repo/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj",
         "projectName": "Kumojin.Blazor",
-        "projectPath": "/Users/janyo/Projects/repos/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj",
+        "projectPath": "/Users/janyo/Projects/repo/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj",
         "packagesPath": "/Users/janyo/.nuget/packages/",
-        "outputPath": "/Users/janyo/Projects/repos/kumojin/Kumojin.Blazor/obj/",
+        "outputPath": "/Users/janyo/Projects/repo/kumojin/Kumojin.Blazor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/janyo/.config/NuGet/NuGet.Config"

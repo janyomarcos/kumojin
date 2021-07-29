@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UDmxeTZ6YL0StFVSf7KJ0CXABY+5QOP5aDyDzZAVYaBRyVlQ5tz9FftHoh+B+6OblraPPvp9susOtkM9qEU7/A==",
+  "dgSpecHash": "DIznsFXvhs805U7AdaJk/hfXJ0PZw8vYNMaGeKzgSxRbnb1v9zDL8z+uZp89k8HnaCHKdkd4CYnthgMdQfI6ZQ==",
   "success": true,
-  "projectFilePath": "/Users/janyo/Projects/repos/kumojin/kumojin.timezone/kumojin.timezone.csproj",
+  "projectFilePath": "/Users/janyo/Projects/repo/kumojin/kumojin.timezone/kumojin.timezone.csproj",
   "expectedPackageFiles": [
     "/Users/janyo/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "/Users/janyo/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

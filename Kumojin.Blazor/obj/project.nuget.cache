@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CW1E72kNnOX3TTtgLtPuyTMAr71uwWtcedkg5hfuMQRNhDpFSq7xK6FChZw5U0wfc3aMttW6PTLfaImn/axyKg==",
+  "dgSpecHash": "wryLxpOyE7YTtz+hi19dkVYnQNBd4q+fwpBEKAQb0MTxmRLPNkQRLrvY/UwEok1S4IJQ1WrF4G1K+sUcF1uE8Q==",
   "success": true,
-  "projectFilePath": "/Users/janyo/Projects/repos/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj",
+  "projectFilePath": "/Users/janyo/Projects/repo/kumojin/Kumojin.Blazor/Kumojin.Blazor.csproj",
   "expectedPackageFiles": [
     "/Users/janyo/.nuget/packages/microsoft.aspnetcore.authorization/6.0.0-preview.6.21355.2/microsoft.aspnetcore.authorization.6.0.0-preview.6.21355.2.nupkg.sha512",
     "/Users/janyo/.nuget/packages/microsoft.aspnetcore.components/6.0.0-preview.6.21355.2/microsoft.aspnetcore.components.6.0.0-preview.6.21355.2.nupkg.sha512",

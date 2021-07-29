@@ -567,11 +567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/janyo/Projects/repos/kumojin/kumojin.timezone/kumojin.timezone.csproj",
+      "projectUniqueName": "/Users/janyo/Projects/repo/kumojin/kumojin.timezone/kumojin.timezone.csproj",
       "projectName": "kumojin.timezone",
-      "projectPath": "/Users/janyo/Projects/repos/kumojin/kumojin.timezone/kumojin.timezone.csproj",
+      "projectPath": "/Users/janyo/Projects/repo/kumojin/kumojin.timezone/kumojin.timezone.csproj",
       "packagesPath": "/Users/janyo/.nuget/packages/",
-      "outputPath": "/Users/janyo/Projects/repos/kumojin/kumojin.timezone/obj/",
+      "outputPath": "/Users/janyo/Projects/repo/kumojin/kumojin.timezone/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/janyo/.config/NuGet/NuGet.Config"

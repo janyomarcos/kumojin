@@ -12,11 +12,13 @@
     <PackageReference Include="MSTest.TestFramework" Version="2.2.3" />
     <PackageReference Include="coverlet.collector" Version="3.0.2" />
     <PackageReference Include="bunit" Version="1.1.5" />
+    <PackageReference Include="Moq" Version="4.16.1" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="bunit" />
     <None Remove="Pages\" />
+    <None Remove="Moq" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Pages\" />
