@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="Vários Projetos">
   <MonoDevelop.Ide.ItemProperties.Kumojin.Timezone PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.ItemProperties.kumojin.timezone PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Kumojin.Blazor.Test/Pages/TimeZoneTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kumojin.Blazor/Shared/MainLayout.razor">
     <Files>
       <File FileName="kumojin.timezone/kumojin.timezone.csproj" Line="13" Column="1" />
       <File FileName="kumojin.timezone/Program.cs" />
@@ -10,39 +10,42 @@
       <File FileName="Kumojin.Blazor/Properties/launchSettings.json" />
       <File FileName="Kumojin.Blazor/Program.cs" />
       <File FileName="kumojin.timezone/Properties/launchSettings.json" />
-      <File FileName="Kumojin.Blazor/Pages/TimeZone.razor" Line="5" Column="3" />
-      <File FileName="Kumojin.Blazor/Services/ITimeZoneService.cs" Line="10" Column="27" />
-      <File FileName="Kumojin.Blazor/Services/TimeZoneService.cs" Line="1" Column="1" />
-      <File FileName="Kumojin.Blazor.Test/Pages/TimeZoneTest.cs" Line="41" Column="2" />
+      <File FileName="Kumojin.Blazor/Pages/TimeZone.razor" />
+      <File FileName="Kumojin.Blazor/Services/ITimeZoneService.cs" />
+      <File FileName="Kumojin.Blazor/Services/TimeZoneService.cs" />
+      <File FileName="Kumojin.Blazor.Test/Pages/TimeZoneTest.cs" />
       <File FileName="Kumojin.Blazor/Pages/TimeZone.cs" />
-      <File FileName="Kumojin.Blazor/Data/TimeZoneViewModel.cs" Line="6" Column="1" />
-      <File FileName="Kumojin.Blazor/Data/DateTimeDTO.cs" Line="1" Column="1" />
+      <File FileName="Kumojin.Blazor/Data/TimeZoneViewModel.cs" />
+      <File FileName="Kumojin.Blazor/Data/DateTimeDTO.cs" />
+      <File FileName="Kumojin.Blazor/App.razor" />
+      <File FileName="Kumojin.Blazor/_Imports.razor" />
+      <File FileName="Kumojin.Blazor/Shared/NavMenu.razor" />
+      <File FileName="Kumojin.Blazor/Shared/NavMenu.razor.css" />
+      <File FileName="Kumojin.Blazor/Shared/MainLayout.razor" Line="17" Column="7" />
+      <File FileName="Kumojin.Blazor/Pages/Index.razor" />
+      <File FileName="Kumojin.Blazor/wwwroot/index.html" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="kumojin" expanded="True" selected="True">
+          <Node name="kumojin" expanded="True">
             <Node name="Kumojin.Blazor" expanded="True">
-              <Node name="Data" expanded="True" />
-              <Node name="Pages" expanded="True" />
-              <Node name="Services" expanded="True" />
-            </Node>
-            <Node name="Kumojin.Blazor.Test" expanded="True">
-              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="MainLayout.razor" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="bootstrap.min.css" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="kumojin" expanded="True">
-            <Node name="Kumojin.Blazor.Test" expanded="True" />
-            <Node name="Kumojin.TimeZone.Test" expanded="True" selected="True" />
-          </Node>
-        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
