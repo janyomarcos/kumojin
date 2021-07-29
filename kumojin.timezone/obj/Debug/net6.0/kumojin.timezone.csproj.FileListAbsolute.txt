@@ -44,4 +44,3 @@
 /Users/janyo/Projects/repos/kumojin/kumojin.timezone/obj/Debug/net6.0/ref/kumojin.timezone.dll
 /Users/janyo/Projects/repos/kumojin/kumojin.timezone/obj/Debug/net6.0/kumojin.timezone.pdb
 /Users/janyo/Projects/repos/kumojin/kumojin.timezone/obj/Debug/net6.0/kumojin.timezone.genruntimeconfig.cache
-/Users/janyo/Projects/repos/kumojin/kumojin.timezone/obj/Debug/net6.0/kumojin.timezone.csproj.AssemblyReference.cache

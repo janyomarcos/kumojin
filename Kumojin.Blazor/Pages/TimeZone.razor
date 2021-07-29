@@ -11,7 +11,7 @@
 <button class="btn btn-primary" @onclick="ShowTimeZone">Refresh</button>
 
 @code {
-    private string tokyoTimezoneId = "Tokyo Standard Time";
+    private string tokyoTimezoneId;
     private TimeZoneInfo timeZoneLocal;
     private DateTime currentTime;
     private DateTime currentTimeLocal;
@@ -23,6 +23,7 @@
 
     private async Task ShowTimeZone()
     {
+        tokyoTimezoneId = TimeZoneService.GetViewModel().Id;
         timeZoneLocal = TimeZoneInfo.Local;
         currentTimeLocal = TimeZoneInfo.ConvertTime(DateTime.Now, timeZoneLocal);
 

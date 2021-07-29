@@ -7,5 +7,6 @@ namespace Kumojin.Blazor.Services
     public interface ITimeZoneService
     {
         Task<DateTimeDTO> GetTimeZone(string timezoneId);
+        TimeZoneViewModel GetViewModel();
     }
 }

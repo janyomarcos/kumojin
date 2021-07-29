@@ -16,16 +16,14 @@ namespace Kumojin.Blazor.Services
 
         public async Task<DateTimeDTO> GetTimeZone(string timezoneId)
         {
-            var response =  await _httpClient.GetAsync($"https://localhost:5001/timezone?timezoneid={timezoneId}");
+            var urlApi = $"/timezone?timezoneid={timezoneId}";
+            var response =  await _httpClient.GetAsync(urlApi);
             string content = await response.Content.ReadAsStringAsync();
 
             var timezone = JsonConvert.DeserializeObject<DateTimeDTO>(content);
-
-            Console.WriteLine("content:");
-            Console.WriteLine(content);
-            Console.WriteLine("timezone:");
-            Console.WriteLine(timezone);
             return timezone;
         }
+
+        public TimeZoneViewModel GetViewModel() => new();
     }
 }
