@@ -14,5 +14,5 @@ Technologies Backend :
 
 Technologies Frontend :
  -> VS for mac
- -> Blazor
+ -> Blazor webassembly
  -> MSTest
